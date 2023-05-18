@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "inquirer": "^9.2.4",
+    "qrcode": "^1.5.3",
+    "valid-url": "^1.0.9"
+  },
+  "name": "url-to-qr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Elie Housseini",
+  "license": "MIT",
+  "description": "from URL to QR Code"
+}
